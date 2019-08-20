@@ -24,7 +24,3 @@ class Solution:
                 p2=p2+1
             else:
                 p1=p1+1
-                    
-                    
-                    
-        
